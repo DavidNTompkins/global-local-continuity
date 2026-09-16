@@ -1,0 +1,88 @@
+﻿participant,sex,age_months,age_group,version,race,Hispanic,testing_date,maternal_education
+DAVPIL4014,M,36.35,36,Global Local w/VSTM V2,White,No,2019-01-31,4 yr degree from a college/University
+DAVPIL4015,F,18.09,18,Global Local w/VSTM V2,Asian,No,2019-02-01,"Doctoral Degree (Ph.D., M.D., etc.)"
+DAVPIL4016,M,18.26,18,Global Local w/VSTM V2,White,No,2019-02-04,Master's Degree
+DAVPIL4018,F,36.15,36,Global Local w/VSTM V2,"Asian,White",No,2019-02-08,4 yr degree from a college/University
+DAVPIL4019,M,18.22,18,Global Local w/VSTM V2,White,Yes,2019-02-09,Master's Degree
+DAVPIL4020,M,35.89,36,Global Local w/VSTM V2,White,No,2019-02-13,4 yr degree from a college/University
+DAVPIL4021,M,18.22,18,Global Local w/VSTM V2,White,No,2019-02-15,4 yr degree from a college/University
+DAVPIL4024,M,47.99,48,Global Local w/VSTM V2,White,No,2019-03-04,4 yr degree from a college/University
+DAVPIL4025,M,25.99,24,Global Local w/VSTM V2,Unknown,Yes,2019-03-04,Some college
+DAVPIL4026,M,41.88,42,Global Local w/VSTM V2,American Indian/Alaskan Native,No,2019-03-08,4 yr degree from a college/University
+DAVPIL4027,F,18.26,18,Global Local w/VSTM V2,White,No,2019-03-08,4 yr degree from a college/University
+DAVPIL4028,M,48.16,48,Global Local w/VSTM V2,Asian,No,2019-03-09,4 yr degree from a college/University
+DAVPIL4029,M,18.45,18,Global Local w/VSTM V2,White,No,2019-03-11,Master's Degree
+DAVPIL4031,F,24.14,24,Global Local w/VSTM V2,Asian,No,2019-03-12,"Doctoral Degree (Ph.D., M.D., etc.)"
+DAVPIL4033,F,18.52,18,Global Local w/VSTM V2,"Asian,White",No,2019-03-14,4 yr degree from a college/University
+DAVPIL4034,M,24.38,24,Global Local w/VSTM V2,White,Yes,2019-03-21,Some college
+DAVPIL4035,F,18.42,18,Global Local w/VSTM V2,"American Indian/Alaskan Native,Native Hawaiian or other Pacific Islander,White",No,2019-03-25,4 yr degree from a college/University
+DAVPIL4036,M,18.36,18,Global Local w/VSTM V2,White,No,2019-03-25,Some college
+DAVPIL4038,M,18.42,18,Global Local w/VSTM V2,White,No,2019-04-02,4 yr degree from a college/University
+DAVPIL4039,F,42.11,42,Global Local w/VSTM V2,American Indian/Alaskan Native,Yes,2019-04-08,Master's Degree
+DAVPIL4041,F,36.28,36,Global Local w/VSTM V2,White,No,2019-04-24,4 yr degree from a college/University
+DAVPIL4042,F,29.7,30,Global Local w/VSTM V2,"Asian,White",No,2019-04-25,4 yr degree from a college/University
+DAVPIL4043,M,12.24,12,Global Local w/VSTM V2,"Asian,White",No,2019-04-25,"Doctoral Degree (Ph.D., M.D., etc.)"
+DAVPIL4044,M,42.2,42,Global Local w/VSTM V2,"Native Hawaiian or other Pacific Islander,White,Asian",No,2019-04-27,4 yr degree from a college/University
+DAVPIL4045,F,24.41,24,Global Local w/VSTM V2,White,Yes,2019-04-27,4 yr degree from a college/University
+DAVPIL4046,F,23.88,24,Global Local w/VSTM V2,"White, Asian",No,2019-04-30,Master's Degree
+DAVPIL4047,M,42.24,42,Global Local w/VSTM V2,White,No,2019-04-30,Some college
+DAVPIL4048,F,12.4,12,Global Local w/VSTM V2,White,Yes,2019-05-02,Master's Degree
+DAVPIL4051,M,12.2,12,Global Local w/VSTM V2,"Asian,White",No,2019-05-07,4 yr degree from a college/University
+DAVPIL4052,M,12.2,12,Global Local w/VSTM V2,"American Indian/Alaskan Native,White",Yes,2019-05-07,Some college
+DAVPIL4053,M,23.78,24,Global Local w/VSTM V2,"American Indian/Alaskan Native,Asian,White",Yes,2019-05-08,"Doctoral Degree (Ph.D., M.D., etc.)"
+DAVPIL4054,F,12.3,12,Global Local w/VSTM V2,White,No,2019-05-10,4 yr degree from a college/University
+DAVPIL4056,M,12.4,12,Global Local w/VSTM V2,"Asian,White",No,2019-05-16,Master's Degree
+DAVPIL4057,M,12.47,12,Global Local w/VSTM V2,White,No,2019-05-17,4 yr degree from a college/University
+DAVPIL4058,M,12.2,12,Global Local w/VSTM V2,White,No,2019-05-17,"Doctoral Degree (Ph.D., M.D., etc.)"
+DAVPIL4059,M,30.2,30,Global Local w/VSTM V2,Asian,No,2019-05-18,4 yr degree from a college/University
+DAVPIL4061,F,23.72,24,Global Local w/VSTM V2,White,No,2019-05-21,4 yr degree from a college/University
+DAVPIL4062,M,11.94,12,Global Local w/VSTM V2,White,No,2019-05-21,"Doctoral Degree (Ph.D., M.D., etc.)"
+DAVPIL4063,M,12.47,12,Global Local w/VSTM V2,White,No,2019-05-23,4 yr degree from a college/University
+DAVPIL4064,F,36.15,36,Global Local w/VSTM V2,White,No,2019-05-30,4 yr degree from a college/University
+DAVPIL4065,M,41.91,42,Global Local w/VSTM V2,White,No,2019-05-31,4 yr degree from a college/University
+DAVPIL4069,M,48.52,48,Global Local w/VSTM V2,White,No,2019-06-06,4 yr degree from a college/University
+DAVPIL4071,F,48.45,48,Global Local w/VSTM V2,White,No,2019-06-07,"Doctoral Degree (Ph.D., M.D., etc.)"
+DAVPIL4073,F,47.89,48,Global Local w/VSTM V2,White,Yes,2019-06-13,4 yr degree from a college/University
+DAVPIL4074,M,36.41,36,Global Local w/VSTM V2,Unknown,Yes,2019-06-14,2 yr degree at a college/trade school
+DAVPIL4077,M,36.45,36,Global Local w/VSTM V2,Unknown,Yes,2019-06-27,Master's Degree
+DAVPIL4078,M,48.45,48,Global Local w/VSTM V2,White,No,2019-06-27,unknown
+DAVPIL4080,M,36.48,36,Global Local w/VSTM V2,White,No,2019-07-08,4 yr degree from a college/University
+DAVPIL4081,F,29.77,30,Global Local w/VSTM V2,Asian,No,2019-07-08,4 yr degree from a college/University
+DAVPIL4082,F,30.1,30,Global Local w/VSTM V2,Black or African American,No,2019-07-09,Some college
+DAVPIL4083,M,48.52,48,Global Local w/VSTM V2,"Asian,White",Yes,2019-07-10,Master's Degree
+DAVPIL4084,F,30.33,30,Global Local w/VSTM V2,White,Yes,2019-07-11,Some college
+DAVPIL4085,M,48.42,48,Global Local w/VSTM V2,"American Indian/Alaskan Native,Asian,White",Yes,2019-07-11,4 yr degree from a college/University
+DAVPIL4086,F,35.99,36,Global Local w/VSTM V2,White,No,2019-07-12,Master's Degree
+DAVPIL4087,F,36.38,36,Global Local w/VSTM V2,Asian,No,2019-07-12,unknown
+DAVPIL4088,F,30.53,30,Global Local w/VSTM V2,White,No,2019-07-12,Master's Degree
+DAVPIL4089,F,36.09,36,Global Local w/VSTM V2,Asian,No,2019-07-13,4 yr degree from a college/University
+DAVPIL4090,M,36.35,36,Global Local w/VSTM V2,"American Indian/Alaskan Native,White",Yes,2019-07-15,Some college
+DAVPIL4091,M,48.13,48,Global Local w/VSTM V2,Unknown,Yes,2019-07-15,2 yr degree at a college/trade school
+DAVPIL4092,F,30.36,30,Global Local w/VSTM V2,White,Yes,2019-07-19,Some college
+DAVPIL4093,M,42.27,42,Global Local w/VSTM V2,White,No,2019-07-19,"Doctoral Degree (Ph.D., M.D., etc.)"
+DAVPIL4094,F,42.14,42,Global Local w/VSTM V2,White,No,2019-07-19,2 yr degree at a college/trade school
+DAVPIL4096,F,18.06,18,Global Local w/VSTM V2,White,No,2019-07-22,"Doctoral Degree (Ph.D., M.D., etc.)"
+DAVPIL4097,F,18.42,18,Global Local w/VSTM V2,White,No,2019-07-26,2 yr degree at a college/trade school
+DAVPIL4098,F,48.32,48,Global Local w/VSTM V2,White,No,2019-07-29,"Doctoral Degree (Ph.D., M.D., etc.)"
+DAVPIL4099,M,42.27,42,Global Local w/VSTM V2,"White,Other (Please specify):",Yes,2019-07-30,Master's Degree
+DAVPIL4101,M,30.36,30,Global Local w/VSTM V2,White,Yes,2019-08-01,Eighth grade completion
+DAVPIL4102,M,42.24,42,Global Local w/VSTM V2,"Asian,White",No,2019-08-02,"Doctoral Degree (Ph.D., M.D., etc.)"
+DAVPIL4103,F,18.22,18,Global Local w/VSTM V2,Unknown,No,2019-08-02,Master's Degree
+DAVPIL4104,F,17.66,18,Global Local w/VSTM V2,"Asian,White",No,2019-08-05,"Doctoral Degree (Ph.D., M.D., etc.)"
+DAVPIL4105,F,18.26,18,Global Local w/VSTM V2,"Asian,White",No,2019-08-05,"Doctoral Degree (Ph.D., M.D., etc.)"
+DAVPIL4107,M,18.22,18,Global Local w/VSTM V2,White,No,2019-08-07,Master's Degree
+DAVPIL4108,F,17.86,18,Global Local w/VSTM V2,White,No,2019-08-08,4 yr degree from a college/University
+DAVPIL4109,F,18.19,18,Global Local w/VSTM V2,White,No,2019-08-08,"Doctoral Degree (Ph.D., M.D., etc.)"
+DAVPIL4110,F,36.41,36,Global Local w/VSTM V2,White,No,2019-08-09,Some college
+DAVPIL4112,M,48.49,48,Global Local w/VSTM V2,White,No,2019-08-12,Master's Degree
+DAVPIL4114,F,48.03,48,Global Local w/VSTM V2,"Asian,White",No,2019-08-15,4 yr degree from a college/University
+DAVPIL4115,M,24.47,24,Global Local w/VSTM V2,"Asian,White",No,2019-08-21,Master's Degree
+DAVPIL4116,F,36.38,36,Global Local w/VSTM V2,"Black or African American,White",No,2019-08-22,2 yr degree at a college/trade school
+DAVPIL4117,F,42.4,42,Global Local w/VSTM V2,"Black or African American,White",No,2019-08-23,4 yr degree from a college/University
+DAVPIL4118,F,42.27,42,Global Local w/VSTM V2,Asian,Yes,2019-08-23,"2 yr degree at a college/trade school,Some college"
+DAVPIL4119,F,30.43,30,Global Local w/VSTM V2,"American Indian/Alaskan Native,White",No,2019-08-24,Master's Degree
+DAVPIL4120,M,42.11,42,Global Local w/VSTM V2,White,No,2019-08-28,4 yr degree from a college/University
+DAVPIL4121,M,18.26,18,Global Local w/VSTM V2,White,No,2019-08-03,Master's Degree
+DAVPIL4122,M,18.19,18,Global Local w/VSTM V2,White,No,2019-09-03,4 yr degree from a college/University
+DAVPIL4123,F,36.45,36,Global Local w/VSTM V2,"Asian,White",No,2019-09-05,Master's Degree
+DAVPIL4125,F,30.46,30,Global Local w/VSTM V2,"White,Other (Please specify):",Yes,2019-09-13,4 yr degree from a college/University
